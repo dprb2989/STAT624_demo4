@@ -24,5 +24,6 @@ name = AnirbanChakraborty
 Jason Craft
 Stella Bazaldua
 Jesse Thomas
+Rijoe Gowra
 Jared Brown
 Jonah Warren
