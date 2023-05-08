@@ -25,3 +25,6 @@ Jason Craft
 Stella Bazaldua
 Jesse Thomas
 vaishnavi
+Rijoe Gowra
+Jared Brown
+Jonah Warren
